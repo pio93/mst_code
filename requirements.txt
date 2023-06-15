@@ -1,0 +1,25 @@
+Here is a list of libraries required to run the evaluation.
+
+numpy:
+pip install numpy
+
+pandas: 
+pip install pandas
+
+scikit-learn: 
+pip install scikit-learn
+
+scipy: 
+pip install scipy
+
+imblearn: 
+pip install imblearn 
+
+smote-variants: 
+pip install smote-variants
+
+tensorflow:
+pip install tensorflow
+
+matplotlib:
+pip install matplotlib
