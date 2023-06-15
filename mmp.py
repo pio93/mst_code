@@ -3,7 +3,7 @@ from sklearn.metrics import f1_score
 
 
 class MaMiPot:
-    def __init__(self, clf, sma=None, alfa_p=0.3, alfa_n=0.8, gamma=1, beta=0):
+    def __init__(self, clf, sma=None, alfa_p=0.1, alfa_n=0.9, gamma=1, beta=0):
         '''
         Arguments:
         clf (scikit-learn classifier) : classification object
